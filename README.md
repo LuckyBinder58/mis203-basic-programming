@@ -22,3 +22,4 @@ Career Goal: 3D Designer<br>
 
 Keep the code simple and beginner-friendly (no functions or classes needed unless it helps readability)."<br><br>
 **What did you change?:** Added a function that creates a .txt file on the desktop of the user after entering all the information asked in survey and added comment lines inside the code<br>
+**UPDATE:** Chaneged the code so it creates only one .CSV sheet and saves all the data orgonized in one path
