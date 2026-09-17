@@ -14,12 +14,6 @@ print("Department:", department)
 print("Age:", age)
 print("Career Goal:", career_goal)
 
-# Just a path to save the file on the desktop of the user
-desktop = os.path.join(os.path.expanduser("~"), "Desktop")
-file_path = os.path.join(desktop, f"{name}_profile.txt")
-
-
-
 # Path to save the CSV file on the user's Desktop
 desktop = os.path.join(os.path.expanduser("~"), "Desktop")
 file_path = os.path.join(desktop, "student_profiles.csv")
