@@ -17,8 +17,8 @@
 
 **Week 02 - AI Tool Note**<br><br>
 **AI Tool Used:** Claude Fable 5.1 <br>
-**Prompt Used:** Create a Python program which asks user for his/her name and grade, then prints out their result according to the results table using "if", "elif" and "else"<br><br>
+**Prompt Used:** Create a Python program which asks user for his/her name and grade, then prints out their result according to the results table using "if", "elif" and "else"<br>
 
-**What did you change?** Added the same feature as in my last assignment with creating .csv file on desktop of the user with their name, score and grade. Wrote this script last year and still use it for this kind of job.<br><br>
+**What did you change?** Added the same feature as in my last assignment with creating .csv file on desktop of the user with their name, score and grade. Wrote this script last year and still use it for this kind of job.<br>
 
 **What does break do in your program?** "break" is only used once to fully stop 'while True' loop when user types "q" and initially starts the creation of "results.csv" file
